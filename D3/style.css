@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-section {
+    margin: 20px;
+}
+
+
+.image-container {
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.fuerteventura{
+    background-image: url('https://static.holidu.com/wp-content/uploads/20211207113827/Dunas-De-Corralejo_carlis__-3-1024x1016.jpeg');
+}
+
+.corralejo {
+    background-image: url('https://www.visitfuerteventura.com/sites/default/files/styles/16_9_desktop/public/resources/header_images/Corralejo-Viejo_0991-cab-D_0.jpg?itok=zZu-xxgO');
+}
+
+.el-cotillo {
+    background-image: url('https://static.alpitour.it/.imaging/default/dam/alpitour/racconti/immagini/1900x720/spagna/canarie/fuerteventura/1900x720_el_cotillo_fuerteventura.jpg/jcr:content.jpg');
+}
+
+.puerto-del-rosario {
+    background-image: url('https://www.lopesan.com/blog/wp-content/uploads/2021/05/fuerteventura-puerto-del-rosario-3.jpg');
+}
+
+.caleta-de-fuste {
+    background-image: url('https://www.lopesan.com/blog/wp-content/uploads/2021/08/playa-caleta-fuste-fuerteventura-EN.jpg');
+}
+
+h1 {
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400; 
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h5 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-left: 20px;
+}
+
+ul  {
+    background: linear-gradient(189deg, #3485ff, transparent);
+    padding-left: 0%;
+    list-style: none;
+}
+
+li{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    border-color: #dfdfdf;
+}
+
+
+a{
+    text-decoration: none;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.link {
+    font-weight: 600;
+    font-style: italic;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
